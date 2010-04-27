@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MvcJsonp.HttpHandlers.JsonpServiceDemo" CodeBehind="JsonpServiceDemo.svc.cs" Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory"%>

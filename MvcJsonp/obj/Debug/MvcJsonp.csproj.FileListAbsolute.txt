@@ -1,0 +1,5 @@
+C:\PlayGround\jsonpExample\MvcJsonp\bin\MvcJsonp.dll
+C:\PlayGround\jsonpExample\MvcJsonp\bin\MvcJsonp.pdb
+C:\PlayGround\jsonpExample\MvcJsonp\obj\Debug\ResolveAssemblyReference.cache
+C:\PlayGround\jsonpExample\MvcJsonp\obj\Debug\MvcJsonp.dll
+C:\PlayGround\jsonpExample\MvcJsonp\obj\Debug\MvcJsonp.pdb
