@@ -3,3 +3,8 @@ C:\PlayGround\jsonpExample\MvcJsonp\bin\MvcJsonp.pdb
 C:\PlayGround\jsonpExample\MvcJsonp\obj\Debug\ResolveAssemblyReference.cache
 C:\PlayGround\jsonpExample\MvcJsonp\obj\Debug\MvcJsonp.dll
 C:\PlayGround\jsonpExample\MvcJsonp\obj\Debug\MvcJsonp.pdb
+C:\Documents and Settings\suttam\WCF3.0_JSONP\MvcJsonp\bin\MvcJsonp.dll
+C:\Documents and Settings\suttam\WCF3.0_JSONP\MvcJsonp\bin\MvcJsonp.pdb
+C:\Documents and Settings\suttam\WCF3.0_JSONP\MvcJsonp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\suttam\WCF3.0_JSONP\MvcJsonp\obj\Debug\MvcJsonp.dll
+C:\Documents and Settings\suttam\WCF3.0_JSONP\MvcJsonp\obj\Debug\MvcJsonp.pdb

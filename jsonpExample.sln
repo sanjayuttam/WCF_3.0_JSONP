@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcJsonp", "MvcJsonp\MvcJsonp.csproj", "{692230D0-7CA6-4097-BF42-89924FD11CC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomService", "AtomService\AtomService.csproj", "{0024D331-1A4A-4087-96EA-8C25D1962B54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{692230D0-7CA6-4097-BF42-89924FD11CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{692230D0-7CA6-4097-BF42-89924FD11CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{692230D0-7CA6-4097-BF42-89924FD11CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0024D331-1A4A-4087-96EA-8C25D1962B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0024D331-1A4A-4087-96EA-8C25D1962B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0024D331-1A4A-4087-96EA-8C25D1962B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0024D331-1A4A-4087-96EA-8C25D1962B54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

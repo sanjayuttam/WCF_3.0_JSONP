@@ -1,0 +1,14 @@
+C:\PlayGround\WCFTest\AtomService\bin\AtomService.dll
+C:\PlayGround\WCFTest\AtomService\bin\AtomService.pdb
+C:\PlayGround\WCFTest\AtomService\bin\Microsoft.ServiceModel.Web.dll
+C:\PlayGround\WCFTest\AtomService\bin\Microsoft.ServiceModel.Web.pdb
+C:\PlayGround\WCFTest\AtomService\obj\Debug\ResolveAssemblyReference.cache
+C:\PlayGround\WCFTest\AtomService\obj\Debug\AtomService.dll
+C:\PlayGround\WCFTest\AtomService\obj\Debug\AtomService.pdb
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\bin\AtomService.dll
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\bin\AtomService.pdb
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\bin\Microsoft.ServiceModel.Web.dll
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\bin\Microsoft.ServiceModel.Web.pdb
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\obj\Debug\AtomService.dll
+C:\Documents and Settings\suttam\WCF3.0_JSONP\AtomService\obj\Debug\AtomService.pdb
